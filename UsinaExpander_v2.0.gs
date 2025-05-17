@@ -2,6 +2,9 @@
  * API_KEY=AIzaSyBgmk4IMW5XjsOGB6fP2N59aBjlLucLKwU
  * response json ID=AAKfycbx8SvNNDKnKHQH6Gz8Dr3ATtuVwj0-gFmffJo_nM6Dadm-FwVmnq1ic2AUfTbIMR7BZ
  * correo de servicio = usina-nomina-service@nomina-usina.iam.gserviceaccount.com
+ * link prueba publis = https://docs.google.com/spreadsheets/d/1vq2C76OM7z2CWJPkDwYufPHy2vwfqjtaGXnT7ryGnQw/edit?gid=984444118#gid=984444118
+ * link prueba agencias = https://docs.google.com/spreadsheets/d/1_rNr_zdX4xogtGIZxUOWKyXRAg5PWdeLpkXtlj5yjms/edit?gid=0#gid=0
+ * link proyecto appscript = https://script.google.com/u/0/home/projects/17iluGomiN9NdMlTo02xHmyctHeU3la-V7zLRO2QSfrgtNIhYWFQeFIzg/edit
  */
 
 // CONSTANTES GLOBALES
